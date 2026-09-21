@@ -1,0 +1,16 @@
+C:\Users\ssegane karim\source\repos\Kabbya Forex\Kabbya Forex\bin\Debug\net10.0-windows\Kabbya Forex.exe
+C:\Users\ssegane karim\source\repos\Kabbya Forex\Kabbya Forex\bin\Debug\net10.0-windows\Kabbya Forex.deps.json
+C:\Users\ssegane karim\source\repos\Kabbya Forex\Kabbya Forex\bin\Debug\net10.0-windows\Kabbya Forex.runtimeconfig.json
+C:\Users\ssegane karim\source\repos\Kabbya Forex\Kabbya Forex\bin\Debug\net10.0-windows\Kabbya Forex.dll
+C:\Users\ssegane karim\source\repos\Kabbya Forex\Kabbya Forex\bin\Debug\net10.0-windows\Kabbya Forex.pdb
+C:\Users\ssegane karim\source\repos\Kabbya Forex\Kabbya Forex\obj\Debug\net10.0-windows\Kabbya_Forex.Form1.resources
+C:\Users\ssegane karim\source\repos\Kabbya Forex\Kabbya Forex\obj\Debug\net10.0-windows\Kabbya Forex.vbproj.GenerateResource.cache
+C:\Users\ssegane karim\source\repos\Kabbya Forex\Kabbya Forex\obj\Debug\net10.0-windows\Kabbya Forex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssegane karim\source\repos\Kabbya Forex\Kabbya Forex\obj\Debug\net10.0-windows\Kabbya Forex.AssemblyInfoInputs.cache
+C:\Users\ssegane karim\source\repos\Kabbya Forex\Kabbya Forex\obj\Debug\net10.0-windows\Kabbya Forex.AssemblyInfo.vb
+C:\Users\ssegane karim\source\repos\Kabbya Forex\Kabbya Forex\obj\Debug\net10.0-windows\Kabbya Forex.vbproj.CoreCompileInputs.cache
+C:\Users\ssegane karim\source\repos\Kabbya Forex\Kabbya Forex\obj\Debug\net10.0-windows\Kabbya Forex.dll
+C:\Users\ssegane karim\source\repos\Kabbya Forex\Kabbya Forex\obj\Debug\net10.0-windows\refint\Kabbya Forex.dll
+C:\Users\ssegane karim\source\repos\Kabbya Forex\Kabbya Forex\obj\Debug\net10.0-windows\Kabbya Forex.pdb
+C:\Users\ssegane karim\source\repos\Kabbya Forex\Kabbya Forex\obj\Debug\net10.0-windows\Kabbya Forex.genruntimeconfig.cache
+C:\Users\ssegane karim\source\repos\Kabbya Forex\Kabbya Forex\obj\Debug\net10.0-windows\ref\Kabbya Forex.dll
